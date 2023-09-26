@@ -7,7 +7,7 @@ class Device
 
   def initialize
     @mqtt_config = {
-      host: "a3su8icnk38ik7-ats.iot.ap-northeast-1.amazonaws.com",
+      host: "<CODE>-ats.iot.ap-northeast-1.amazonaws.com",
       port: 8883,
       ssl: true,
       cert_file: "bb122a5e/device.pem.crt",
