@@ -1,8 +1,9 @@
 # AWS IoT Core shadow client in Ruby
 
-You need to create a [Thing, certificate and IoT policy in IoT Core](https://docs.aws.amazon.com/iot/latest/developerguide/iot-moisture-setup.html).
 
 # Usage
+
+Before you get started, you need to create [thing, certificate and IoT policy in IoT Core](https://docs.aws.amazon.com/iot/latest/developerguide/iot-moisture-setup.html).
 
 ## Device
 
